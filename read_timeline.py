@@ -46,6 +46,7 @@ def read_timeline(latestid):
         elapsed = time.time()-start
         if(elapsed < 5.5):
             time.sleep(5.5-elapsed)
+        else:
             read_timeline(latestid)
     else:
         time.sleep(5.5)
