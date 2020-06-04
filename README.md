@@ -1,5 +1,5 @@
 # Read_timeline  
-  
+TwitterのタイムラインをMicrosoft Sayakaが読み上げます.    
 # 推奨環境  
 Windows10-64bit  
 (read_timeline.py編集はPython3.7)  
