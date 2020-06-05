@@ -1,4 +1,4 @@
-# Read_timeline  
+# ReadTimeline  
 TwitterのタイムラインをMicrosoft Sayakaが読み上げます.    
 # 推奨環境  
 Windows10-64bit  
